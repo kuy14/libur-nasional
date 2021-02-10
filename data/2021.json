@@ -1,0 +1,83 @@
+[
+  {
+    "date": "2021-01-01T00:00:01.000Z",
+    "description": "Tahun Baru 2021 Masehi",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-02-12T00:00:01.000Z",
+    "description": "Tahun Baru Imlek 2572 Kongzili",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-03-11T00:00:01.000Z",
+    "description": "Isra Mikraj Nabi Muhammad SAW",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-03-14T00:00:01.000Z",
+    "description": "Hari Suci Nyepi Tahun Baru Saka 1942",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-04-02T00:00:01.000Z",
+    "description": "Wafat Isa Al Masih",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-05-01T00:00:01.000Z",
+    "description": "Hari Buruh Internasional",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-05-13T00:00:01.000Z",
+    "description": "Kenaikan Isa Al Masih",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-05-13T00:00:01.000Z",
+    "description": "Hari Raya Idul Fitri 1441 Hijriyah",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-05-26T00:00:01.000Z",
+    "description": "Hari Raya Waisak 2565",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-06-01T00:00:01.000Z",
+    "description": "Hari Lahir Pancasila",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-07-20T00:00:01.000Z",
+    "description": "Hari Raya Idul Adha 1442 Hijriyah",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-08-10T00:00:01.000Z",
+    "description": "Tahun Baru Islam 1443 Hijriyah",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-08-17T00:00:01.000Z",
+    "description": "Hari Kemerdekaan RI",
+    "type": "national-holiday"
+  },
+
+  {
+    "date": "2021-10-19T00:00:01.000Z",
+    "description": "Maulid Nabi Muhammad SAW",
+    "type": "national-holiday"
+  },
+  {
+    "date": "2021-12-24T00:00:01.000Z",
+    "description": "Cuti Bersama Hari Raya Natal",
+    "type": "joint-holiday"
+  },
+  {
+    "date": "2021-12-25T00:00:01.000Z",
+    "description": "Hari Raya Natal",
+    "type": "national-holiday"
+  }
+]
